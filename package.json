@@ -1,6 +1,6 @@
 {
   "name": "personal-portfolio",
-  "homepage": "https://Dark8203.github.io/React_Portfolio",
+  "homepage": "https://dark8203.github.io/React_Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
